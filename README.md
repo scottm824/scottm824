@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scottm824
 - 👀 I’m interested in Python, JavaScript and .NET development.
-- 🌱 I’m currently learning Flask, nodejs, azure.
-- 💞️ I’m looking to collaborate on pretty much anything. Have expirience also with Java, C/C++, and Linux.
+- 🌱 I’m currently learning about Alphavantage and machine leaning using Python.
+- 💞️ I’m looking to collaborate on pretty much anything.
 - 📫 How to reach me: email sem824@gmail.com
 
 <!---
